@@ -14,5 +14,6 @@
         }
         cout<<(vd[n]+vd[m]-2)%mod;
         cout<<endl;
+        cout<<"Execution done!";
         return 0;
     }
